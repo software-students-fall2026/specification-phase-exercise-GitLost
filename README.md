@@ -8,7 +8,35 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Review of the Current Application
 
-See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+1. **Strength — Generated slides organize lecture content clearly**  
+   Slide Machine generally avoids placing too much information on a single slide and creates clear, relevant headings that correspond to the content being discussed.
+
+2. **Strength — Speech is accurately translated into written slide content**  
+   The application generally understands spoken lecture content accurately and can transform it into appropriate written forms, such as paragraphs or bullet points.
+
+3. **Strength — The quiz generator creates relevant and well-distributed questions**  
+   Generated quiz questions accurately reflect information presented in the lecture slides and distribute questions across distinct topics rather than concentrating heavily on one portion of the lecture.
+
+4. **Strength — Exported slides preserve their presentation across supported formats**  
+   Exported presentations closely match their appearance in Slide Machine, preserving the content, layout, and overall presentation.
+
+5. **Weakness — Generated slides do not always include appropriate visual material**  
+   Slide generation may omit useful images, diagrams, graphs, or other visual elements even when the lecture content could benefit from them.
+
+6. **Weakness — Imported presentation designs are not reproduced consistently**  
+   Importing designs from Google Slides or PowerPoint can alter elements of the original presentation, including fonts and design elements, and may result in inconsistent styling between slides.
+
+7. **Weakness — Changing a generated slide's layout can cause existing content to display incorrectly**  
+   When changing between certain slide layouts, existing text can become excessively large or extend beyond the available space, leaving portions of the content cut off.
+
+8. **Weakness — AI refinement cannot reliably be reapplied after its changes are manually removed**  
+   After using Refine with AI and manually deleting some or all of the generated changes, running the refinement feature again may produce no apparent changes.
+
+9. **Weakness — Previously generated slide content is not consistently reorganized as a lecture develops**  
+   As additional information is spoken, Slide Machine may continue adding information to the current or latest slide rather than reorganizing earlier content or beginning a new slide when the topic changes.
+
+10. **Gap — Slide text has limited formatting and hierarchy controls**  
+    The editor lacks several text-formatting capabilities, including changing fonts, adjusting indentation and bullet formatting, and creating multi-level bullet points for subtopics.
 
 ## Prior Art & Originality
 
