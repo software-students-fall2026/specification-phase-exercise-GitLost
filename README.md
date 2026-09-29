@@ -40,7 +40,13 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Prior Art & Originality
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
+Our team proposes improving Slide Machine through instructor-guided editing and AI revision. The goal is to give instructors more control over how AI-generated slide content is revised and reorganized after it has been generated.
+
+We reviewed the project's existing roadmap, Future Work/Open Questions, open issues, and pull requests before developing this proposal. Some existing and planned features overlap with the general area of AI-assisted slide editing. For example, the roadmap includes post-lecture AI reformatting that can regenerate a lecture more holistically, as well as functionality for deciding whether newly generated content should update the current slide or create a new slide.
+
+Our proposal differs by focusing on fine-grained, instructor-directed revision of generated content. Rather than only allowing the system to reorganize an entire lecture, an instructor could select specific content or slides and request actions such as condensing, expanding, splitting, combining, or reorganizing the selected material. The proposal would also explore allowing instructors to retry and compare AI refinements, restore previous versions, move generated content between slides, and organize information using additional hierarchical formatting controls such as multi-level bullet points and indentation.
+
+Therefore, the original contribution of our proposal is not AI-based slide reformatting itself, but a more interactive revision workflow in which instructors can direct, compare, and control how the AI modifies specific portions of an existing presentation.
 
 ## Stakeholders
 
