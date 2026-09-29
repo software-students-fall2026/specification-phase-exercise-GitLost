@@ -48,11 +48,37 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+The Slide Machine will help instructors create clear, accurate teaching materials and students turn those materials into effective study resources by giving both groups more control over AI-generated content and revisions.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
+The stories selected for UML Activity Diagrams are shown in bold.
+
+### Students
+
+1. **As a student, I want to highlight a chunk of text on my slide and ask the AI to shorten it so that my slides aren't packed with too many words.**
+2. **As a student, I want to pick a bullet point and ask the AI to explain it in more detail so that I understand it better when I study later.**
+3. As a student, I want to split a slide that covers two topics into two slides so that each slide focuses on one idea.
+4. As a student, I want to move a point from one slide to another so that information ends up under the right topic.
+5. As a student, I want to attach my own class notes to a lecture slide so that I can study my notes alongside the professor's material.
+6. As a student, I want to try an AI edit again and compare the versions so that I can keep the one that makes the most sense to me.
+7. As a student, I want to undo an AI change and go back to what I had before so that I don't lose notes I already liked.
+8. As a student, I want to add sub-bullets under a main point so that I can see which ideas are important and which are supporting details.
+9. As a student, I want the AI to make capitalization and bullet style match across all my slides so that my notes look clean and are easy to read.
+10. As a student, I want the AI to mark which points were emphasized most so that I know what to focus on when I review.
+
+### Instructors
+
+1. As an instructor, I want to specify that a slide needs a diagram rather than a photo so that the AI chooses a visual that explains the concept.
+2. As an instructor, I want AI refinement to check an image already on my slide so that an irrelevant image can be replaced.
+3. **As an instructor, I want to tell the AI which sentence to revise and what to change so that the rest of my slide stays the same.**
+4. As an instructor, I want to review an AI-revised slide before the change is applied so that I can reject wording that misrepresents my lesson.
+5. As an instructor, I want the app to tell me when an AI refinement makes no changes so that I know whether to try again or edit the slide myself.
+6. As an instructor, I want to mark an explanation as essential so that the generated slide keeps the reasoning students need, not just the main fact.
+7. As an instructor, I want a discussion question I ask to remain a question on the slide so that I can check students' understanding.
+8. As an instructor, I want to see which statements the AI added on its own so that I can remove anything I didn't intend to teach.
+9. **As an instructor, I want to know when a slide and its saved narration say different things so that I can catch errors before sharing the deck.**
+10. As an instructor, I want to correct a term once across the slides and narration so that students see and hear consistent wording.
 
 ## Activity Diagrams
 
