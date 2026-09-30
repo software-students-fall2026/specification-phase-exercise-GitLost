@@ -54,7 +54,111 @@ Therefore, the original contribution of our proposal is not AI-based slide refor
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
+Payton B. 
+(Student) Goals/Needs:
+- Being able to re-listen to professor's presentation at own speed
+- Have an accurate description of what was said in class
+- Easy to read
+- Emphasizes what the most important thing to focus on in class, so when reviewing notes or studying, can focus more on what was emphasized more in class
+Problems/Frustrations:
+- Does not pull a lot from the shared notes- just pulled the general language and embellished words
+- Did not include a lot of information from the notes (e.g., grading policy from syllabus)
+- Titles are a little janky - In course overview slides, “Who are you” should be the title (also what’s in notes)
+- Did not like the variation in capitalization for the slides (mainly for bullet points) → unprofessional
+- Did not like the lack of consistency for paragraphs and bullet points
+- Makes it hard to read and follow
+- There was more information and detail in the syllabus that was not included in the course overview slides
+- Information is way clearer on the actual syllabus than the slides
+- There was a title slide format for non-title text (three times on the course overview slides)
+- Audio - really don’t like
+- Doesn’t like that it recorded and altered voice
+- Why does it change how she pronounced a name (correctly) but skip over a chunk of what she said
+- Can't adjust speed (speed up or slow down)
+- Can't adjust slide on (fast forward or rewind audio)
+- Adding unnecessary stuff and skipping over important stuff
+- Embellishing a lot of what was said
+- Said a name wrong and didn’t catch all names
+- Exit ticket: did not like the MCQ questions generated (not specific enough), multiple-answer questions (generated a question that was fine)
+Positives (not part of project):
+- Did pull the right names from the article provided
+- Like that there are hyperlinks in the slides
+- Liked variation of text effects for emphasis (bold, italics, etc.)
+
+
+
+
+
+
+
+Ann L. (Student) Goals:
+- Read out loud re-listen to the lecture
+- AI Lecture summary generation things as a student should focus on
+- Best way to learn is to teach: Make flashcards and quiz out of highlight
+- Be able to annotate the slides
+- Combine personal notes attach it to the slides using AI
+Problem and frustration:
+- Call to action is weird: From a student's perspective being a new user is hard to understand what to do on this site. Is the student supposed to make the new slides? Or go into already existing lecture slides.
+- Have more features to edit the slides with: Rectangles, shapes, etc like Figma/ppt/google slides.
+- Currently it's an unorganized way of making slides: If talking was supposed to be for convenience and save time but the problem is when users talk they usually are yapping without an order of context. It's better if the slides allowed making a skeleton outline first then adding in details to each slide based off the speech.
+Positive:
+- Have different languages to translate to
+- Being able to annotate and can make a quiz
+- Quiz is accurate
+
+
+
+
+
+
+
+
+
+
+
+Instructor: T.N
+
+Goals/Needs:
+
+- Preserve the intended teaching content, including important explanations, examples and qualifications.
+- Retain the purpose of instructional material: explanations should help students understand, and discussion questions should check their understanding.
+- Maintain accurate and consistent terminology across generated slides and saved narration.
+- Review and correct selected content efficiently while preserving material that is already accurate and useful.
+
+Problems/Frustrations:
+
+- Generated slides can summarize a lecture too aggressively, retaining facts while omitting explanations students need to understand them.
+- Specific discussion questions can become broad summaries or learning objectives, weakening their usefulness for checking understanding.
+- Generated material can include unrequested commentary or instructions, requiring the instructor to check whether the output still reflects the intended lesson.
+- Errors can remain in saved narration even when the visible slides look correct, requiring separate checks of different versions of the same teaching material.
+
+Positives:
+
+- The app successfully incorporated a spoken correction into the generated slides.
+- The visible slides preserved the main facts, names and numerical information in the test.
+- It maintained an important distinction between factual evidence and the lecturer’s interpretation.
+- The generated deck was readable and followed a sensible teaching sequence.
+- The generated quiz broadly reflected the lecture content.
+
+
+
+
+
+Instructor: Rouaa 
+Goals/needs:
+- Show students a diagram that explains the floor plan, rather than a merely related photo that doesn't represent the lesson content.
+- Keep measurements, directions, room locations, and zoning terms accurate.
+- Correct a specific part of a slide without disturbing content that is already right.
+- Review AI changes and know whether a requested change happened before using the deck.
+Problems/frustrations observed in our walkthrough:
+- The app added an apartment photo where the lesson needed a floor-plan diagram.
+- A search for a floor-plan diagram returned unhelpful results, and refining the slide did not reconsider the image already there.
+- The slide-refinement controls did not let us say which sentence to change or how to change it.
+- One text-refinement attempt made no visible change or explanation; another applied its changes directly without a preview.
+Positives: 
+- The tool turned our typed lesson transcript into a slide with a clear title and bullets.
+- That generated slide kept the information we provided such as dimensions.
+- The slide title and text could be edited manually if needed.
+- The quiz preview reflected the lesson, though its questions were mostly factual recall.
 
 ## Product Vision Statement
 
