@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- [Ruihan Yang](https://github.com/rayyang262)
+- [Hoang Ngo](https://github.com/ogngnaoh)
+- [Jolie Leong](https://github.com/jl15113)
+- [Sean Alliman](https://github.com/SeanA12)
+- [Layan Alyas](https://github.com/layan-al)
 
 ## Review of the Current Application
 
