@@ -196,7 +196,29 @@ The stories selected for UML Activity Diagrams are shown in bold.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+### Student — Story 1
+
+As a student, I want to highlight a chunk of text on my slide and ask the AI to shorten it so that my slides aren't packed with too many words.
+
+![Activity diagram for Student Story 1](assets/activity-diagrams/student-story-1.png)
+
+### Student — Story 2
+
+As a student, I want to pick a bullet point and ask the AI to explain it in more detail so that I understand it better when I study later.
+
+![Activity diagram for Student Story 2](assets/activity-diagrams/student-story-2.png)
+
+### Instructor — Story 3
+
+As an instructor, I want to tell the AI which sentence to revise and what to change so that the rest of my slide stays the same.
+
+![Activity diagram for Instructor Story 3](assets/activity-diagrams/instructor-story-3.png)
+
+### Instructor — Story 9
+
+As an instructor, I want to know when a slide and its saved narration say different things so that I can catch errors before sharing the deck.
+
+![Activity diagram for Instructor Story 9](assets/activity-diagrams/instructor-story-9.png)
 
 ## Wireframes
 
