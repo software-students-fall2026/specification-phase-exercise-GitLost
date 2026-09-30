@@ -222,11 +222,11 @@ As an instructor, I want to know when a slide and its saved narration say differ
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+[See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.](https://www.figma.com/design/TpEbFM340iRNzZ9WJr2kjF/Wireframe-TSM?node-id=0-1&t=TpEamXDSFpVVLNPB-1)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/TpEbFM340iRNzZ9WJr2kjF/Wireframe-TSM?node-id=0-1&t=TpEamXDSFpVVLNPB-1
 
 ## Stakeholder Demo
 
